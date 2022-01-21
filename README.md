@@ -14,7 +14,7 @@
 
 <h2>🍚 2. 분석 배경</h2>
 
-<p align = "center"><img src = "Images/1. 배경.JPG" width = "400" height = "400"></p>
+<p align = "center"><img src = "Images/1. 배경.JPG" width = "1000" height = "400"></p>
 
 - 식품은 날씨와 기후의 영향을 크게 받는 상품군
 
