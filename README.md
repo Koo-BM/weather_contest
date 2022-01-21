@@ -86,7 +86,7 @@
 
 <h2>🍚 6. 활용방안</h2>
 
-<p align = "center"><img src = "Images/11. 플랫폼.JPG" width = "900" height = "400"></p>
+<p align = "center"><img src = "Images/11. 플랫폼.JPG" width = "800" height = "400"></p>
 
 - 플랫폼 아이디어 제시
 
