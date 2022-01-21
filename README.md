@@ -54,17 +54,17 @@
 
 - (3) 새로운 변수 생성
 
-<img src = "Images/6. 최종 데이터 변수.JPG" width = "1000" height = "300">
+<img src = "Images/6. 최종 데이터 변수.JPG" width = "800" height = "300">
 
 - (4) 데이터 표준화
 
 - 설명변수: 각 변수별로 범위가 달라 모델에 적용했을 때 큰 값을 가지는 변수의 영향이 크게 작용할 수 있음 > 각 변수의 평균이 0, 표준편차가 1이 되도록 표준화
 
-<img src = "Images/7. 이상치.JPG" width = "1000" height = "300">
+<img src = "Images/7. 이상치.JPG" width = "800" height = "300">
 
 - (5) 이상치 제거
 
-<img src = "Images/8. 상관분석.JPG" width = "1000" height = "300">
+<img src = "Images/8. 상관분석.JPG" width = "800" height = "300">
 
 - (6) 상관 분석
 
