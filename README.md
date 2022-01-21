@@ -46,11 +46,11 @@
 
 - (1) 변수 설정
 
-<img src = "Images/4. 결측치.JPG" width = "1000" height = "300">
+<img src = "Images/4. 결측치.JPG" width = "800" height = "300">
 
 - (2) 결측치 처리
 
-<img src = "Images/5. 새로운 변수.JPG" width = "1000" height = "300">
+<img src = "Images/5. 새로운 변수.JPG" width = "800" height = "300">
 
 - (3) 새로운 변수 생성
 
