@@ -42,7 +42,7 @@
 
 ### 1. 데이터 전처리
 
-<img src = "Images/3. 변수설정.JPG" width = "1000" height = "300">
+<img src = "Images/3. 변수설정.JPG" width = "800" height = "300">
 
 - (1) 변수 설정
 
